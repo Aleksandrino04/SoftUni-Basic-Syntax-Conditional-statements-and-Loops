@@ -1,0 +1,16 @@
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\05. Login\bin\Debug\net5.0\05. Login.exe
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\05. Login\bin\Debug\net5.0\05. Login.deps.json
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\05. Login\bin\Debug\net5.0\05. Login.runtimeconfig.json
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\05. Login\bin\Debug\net5.0\05. Login.runtimeconfig.dev.json
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\05. Login\bin\Debug\net5.0\05. Login.dll
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\05. Login\bin\Debug\net5.0\ref\05. Login.dll
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\05. Login\bin\Debug\net5.0\05. Login.pdb
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\05. Login\obj\Debug\net5.0\05. Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\05. Login\obj\Debug\net5.0\05. Login.AssemblyInfoInputs.cache
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\05. Login\obj\Debug\net5.0\05. Login.AssemblyInfo.cs
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\05. Login\obj\Debug\net5.0\05. Login.csproj.CoreCompileInputs.cache
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\05. Login\obj\Debug\net5.0\05. Login.dll
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\05. Login\obj\Debug\net5.0\ref\05. Login.dll
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\05. Login\obj\Debug\net5.0\05. Login.pdb
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\05. Login\obj\Debug\net5.0\05. Login.genruntimeconfig.cache
+C:\Users\maxib\source\repos\Basic Syntax, Conditional Statements and Loops - Lab\05. Login\obj\Debug\net5.0\05. Login.csproj.AssemblyReference.cache
